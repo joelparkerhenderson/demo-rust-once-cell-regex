@@ -17,6 +17,7 @@ version = "1.0.0"
 dependencies = [
  "once-cell-regex",
  "once_cell",
+ "regex",
 ]
 
 [[package]]
